@@ -5,6 +5,7 @@ THE END.
 -> END
         
 === shit_on_hands_ending ===
+{next_stall.talk_with_bully.five_ones: The stranger takes their time counting it, licking their thumb with each pass. “Is that all?” they ask. Five individual squares appear under the stall. “Good luck and god speed."}
 You got shit on your hands. You go back to your crush at the party and they ask if you didn’t wipe your ass. 
 GAME OVER. 
 -> END

@@ -20,7 +20,7 @@ You hear a groan to your left. The toilet flushes and there’s the sweetest sou
     * * [Tell them to fuck off.]
     * * [Maybe the price is fair? Check your wallet.]
     You reach down into your dropped pants and find your wallet. It has $5 in it.
-        * * *   [You reluctantly pass the five ones under the stall.] -> shit_on_hands_ending
+        * * *   (five_ones) [You reluctantly pass the five ones under the stall.] -> shit_on_hands_ending
         * * *   “I don’t have enough cash. Will you take a check?”
 -   “If you don’t have the cash, that’s fine. There’s something else you can do.”
     A thousand thoughts flash through your mind. How many perverted things can you do in a public restroom? But you’re in too deep to back out now. And your ass is on fire and your crush is waiting. 
