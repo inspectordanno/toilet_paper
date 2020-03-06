@@ -5,6 +5,6 @@
 *   [Try the stall on your left.]
     You pull on the door so fast you didn’t notice it was locked. The person inside laughs. “Why are your pants down?”
     * *  [Wow that sucked. Let’s waddle away in embarrassment.]-> beginning
-    * *  [Meekly ask for some toilet paper.]
+    * *  (meekly_ask) [Meekly ask for some toilet paper.]
     “No problem,” the stranger says. “Head on back to your stall and I’ll pass it under.”
     You’re drenched with sweat but made it back safely. You sit again, lock the door, and wait.-> next_stall.talk_with_bully

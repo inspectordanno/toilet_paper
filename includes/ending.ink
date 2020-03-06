@@ -5,7 +5,7 @@ THE END.
 -> END
         
 === shit_on_hands_ending ===
-You got shit on your hands. When you go back to your crush at the party and they ask if you didn’t wipe your ass. 
+You got shit on your hands. You go back to your crush at the party and they ask if you didn’t wipe your ass. 
 GAME OVER. 
 -> END
 
