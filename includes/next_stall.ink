@@ -21,6 +21,7 @@ You hear a groan to your left. The toilet flushes and there’s the sweetest sou
 *   "What's your price? I'm desperate here."
     They wait a long time before answering. You can practically see them smiling right through the stall and your bunghole is getting itchy. “A dollar per square sounds more than reasonable.”
     * * [Tell them to fuck off.]
+        "No way I'm paying that, sorry buddy."
     * * [Maybe the price is fair? Check your wallet.]
     You reach down into your dropped pants and find your wallet. It has $5 in it.
         * * *   (five_ones) [You reluctantly pass the five ones under the stall.] -> shit_on_hands_ending
@@ -42,7 +43,10 @@ You hear a groan to your left. The toilet flushes and there’s the sweetest sou
                     “I’m not confusing you with anybody,” they say. “Now do what I want or suffer the consequences. And based on the smell, they’ll be pretty bad.”
     * * [Apologize.] -> apology_ending
     * * [Give in.] -> give_in_ending
-    * * [Deny again and go back to the beginning. You’ll find a way out of this jam without this person’s help.] -> beginning
+    * * [Deny again and go back to the beginning. You’ll find a way out of this jam without this person’s help.] 
+        "Look it's not me, I'm done talking about it."
+        "Alright, have fun in there. Good night and good luck."
+        -> beginning
 *   [Give in.] -> give_in_ending
                     
         
