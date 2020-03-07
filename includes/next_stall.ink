@@ -7,7 +7,7 @@ You hear a groan to your left. The toilet flushes and there’s the sweetest sou
 *   [Say, “Excuse me, but can you spare a few squares?”]
     “Excuse me, but can you spare a few squares?”
     -> talk_with_bully
-*   [Reach your hand under the stall and say, “I need some freakin’ toilet paper right now!”]
+*   (run_out) [Reach your hand under the stall and say, “I need some freakin’ toilet paper right now!”]
     “I need some freakin’ toilet paper right now!”
     Your stall neighbor shrieks so loud that everyone at the reunion probably heard it over the ten year old pop music blaring. They flush once again, gather their pants up and fly out the stall and bathroom without washing their hands. Looks like you’re back where you began.
     -> beginning
