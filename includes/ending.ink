@@ -3,10 +3,14 @@ After using all the clothing you’re willing to part with, your ass is so clean
 The water won’t stop. You’re standing in a good inch of it already but before you make it to the door, the janitor bursts in and digs into the clog with his bare hands, up to his elbows in shit water. Maybe you can still sprint out of here, but what’s this? The door’s held open by partygoers, your old classmates, all here to watch the show. They’re all laughing, no doubt in their minds who the culprit is here. Finally the water calms, the janitor raises your shit rag high and triumphant above his head. “Well there’s your problem,” he says. Your crush pushes through the crowd. “PLAYER NAME  what in the fuck? Oh god…” they vomit, a red stream of the spiked punch you were feeding them earlier. “Good thing the janitor is here,” you say.
 THE END.
 -> END
+
+=== smell_like_shit_ending ===
+{next_stall.talk_with_bully.five_ones: The stranger takes their time counting it, licking their thumb with each pass. “Is that all?” they ask. Five individual squares appear under the stall. “Good luck and god speed."}
+You go back to the party and your crush comments that you smell like shit. GAME OVER.
+-> END
         
 === shit_on_hands_ending ===
-{next_stall.talk_with_bully.five_ones: The stranger takes their time counting it, licking their thumb with each pass. “Is that all?” they ask. Five individual squares appear under the stall. “Good luck and god speed."}
-You got shit on your hands. You go back to your crush at the party and they ask if you didn’t wipe your ass. 
+You got shit on your hands.
 GAME OVER. 
 -> END
 
@@ -19,6 +23,6 @@ THE END.
 
 === give_in_ending ===
  It’s true and you’re not really sorry about it. But they’ve got you in the noose right now and maybe the best way out of this is to give them what they want. You scream “I’m PLAYER NAME and I still don’t know how to wipe my ass!”
- Right as you scream the words, the bathroom door slams open. “PLAYER NAME?” your crush says. “Are you in here? What’s going on?” Your stall neighbor laughs. “Didn’t you hear? PLAYER NAME can’t wipe!” Your crush groans. “You haven’t changed at all since high school. I’m leaving.” Fuck everything. You stand up with your legs numb, your pants strangling your ankles, diarrhea dripping from your cheeks, and rush outside the stall for one last chance. You trip and face plant, looking up in time to see your crush scowl as they leave the bathroom. 
+ Right as you scream the words, the bathroom door slams open. “PLAYER NAME?” your crush says. “Are you in here? What’s going on?” Your stall neighbor laughs. “Didn’t you hear? PLAYER NAME can’t wipe!” Your crush groans. “You haven’t changed at all since high school. I’m leaving.” Fuck everything. You stand up with your legs numb, your pants strangling your ankles, diarrhea dripping from your cheeks, and rush outside the stall for one last chance. You trip, face plant, and fart, looking up in time to see your crush scowl as they leave the bathroom. 
  THE END.
  -> END

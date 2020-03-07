@@ -8,7 +8,9 @@
 { 
 - next_stall.bully_recognize.deny:
     You already messed with that shmuck, don't go in there!
-    * * [Waddle away in embarassment.] -> beginning
+    * * [Waddle away in embarassment.] 
+    You made it back to your own stall just in time.
+    -> beginning
     * * [Try the stall on your right.]
     Someone comes in and sees you with your pants down. They run screaming, "PLAYER_NAME has their pants down!" GAME OVER.
     -> END
