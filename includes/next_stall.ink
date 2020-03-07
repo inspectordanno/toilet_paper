@@ -34,7 +34,7 @@ You hear a groan to your left. The toilet flushes and there’s the sweetest sou
 = bully_recognize
 “How could I forget? You used to give me swirlies in my own piss after every gym class. I’ve been waiting a long fuckin’ time to get my revenge.”
 *   [Apologize.] -> apology_ending
-*   [Deny it.]
+*   (deny) [Deny it.]
      Were you a high school bully? No, can’t be. They were harmless pranks and everyone laughed. Plus you would’ve remembered a piss swirly. “You’re confusing me with someone else,” you say. “I never did that. No way.”
                     “I’m not confusing you with anybody,” they say. “Now do what I want or suffer the consequences. And based on the smell, they’ll be pretty bad.”
     * * [Apologize.] -> apology_ending
