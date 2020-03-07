@@ -1,5 +1,8 @@
 === next_stall ===
+//only hear the groan the first time
+{next_stall == 1: 
 You hear a groan to your left. The toilet flushes and there’s the sweetest sound of fresh toilet paper spinning off the roll.
+}
 *   [Cough and wait for them to reply. You know, real casual like.]
     "Bless you." 
     Well that went nowhere. Unlike your crush who might leave with someone else if you don’t wrap this up.
